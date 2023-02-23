@@ -2,7 +2,7 @@ import java.util.*;
 import java.lang.*;
 import java.io.*;
 
-public class Plaindrome_Number_Pyramid
+public class Main
 {
 	public static void main (String[] args) throws java.lang.Exception
 	{
