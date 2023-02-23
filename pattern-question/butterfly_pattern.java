@@ -2,7 +2,7 @@ import java.util.*;
 import java.lang.*;
 import java.io.*;
 
-public class Main
+public class butterfly_pattern
 {
 	public static void main (String[] args) throws java.lang.Exception
 	{
