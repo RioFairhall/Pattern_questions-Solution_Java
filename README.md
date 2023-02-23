@@ -40,9 +40,9 @@ the code will give the result for Pyramid Star pattern for a user defined 'n' va
 
             1 
           2 1 2 
-        3 2 1 3 2 
-      4 3 2 1 4 3 2 
-    5 4 3 2 1 5 4 3 2 
+        3 2 1 2 3 
+      4 3 2 1 2 3 4 
+    5 4 3 2 1 2 3 4 5 
 
 the code will give the result for Plaindrome Number Pyramid pattern for a user defined 'n' value
 
