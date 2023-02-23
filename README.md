@@ -24,7 +24,7 @@ the code will give the result for Butterfly pattern for a user defined 'n' value
 the code will give the result for Hollow Rhombus pattern for a user defined 'n' value
 
 
-# pattern_questions-Plaindrome Number Pyramid  | Solution_in_Java
+# pattern_questions-Star Pyramid | Solution_in_Java
 
 
         * 
@@ -36,7 +36,7 @@ the code will give the result for Hollow Rhombus pattern for a user defined 'n' 
 the code will give the result for Pyramid Star pattern for a user defined 'n' value
 
 
-# pattern_questions-Pyramid using stars | Solution_in_Java
+# pattern_questions-Plaindrome Number Pyramid  | Solution_in_Java
 
             1 
           2 1 2 
