@@ -24,7 +24,7 @@ public class Plaindrome_Number_Pyramid
 						System.out.print(j+" ");
 					}
 					//2nd part- from i to 2
-				for(int j=i; j>=2; j--)
+				for(int j=2; j<=i; j++)
 					{
 						System.out.print(j+" ");
 					}
