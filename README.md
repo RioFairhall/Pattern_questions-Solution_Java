@@ -46,4 +46,15 @@ the code will give the result for Pyramid Star pattern for a user defined 'n' va
 
 the code will give the result for Plaindrome Number Pyramid pattern for a user defined 'n' value
 
+
+# pattern_questions-Daimond Pattern | Solution_in_Java
+
+         * 
+       * * * 
+     * * * * * 
+       * * * 
+         * 
+         
+the code will give the result for Daimond pattern for a user defined 'n' value
+
 Note: varible 'n' is used to take user input.
