@@ -49,11 +49,11 @@ the code will give the result for Plaindrome Number Pyramid pattern for a user d
 
 # pattern_questions-Daimond Pattern | Solution_in_Java
 
-         * 
-       * * * 
-     * * * * * 
-       * * * 
-         * 
+        * 
+      * * * 
+    * * * * * 
+      * * * 
+        * 
          
 the code will give the result for Daimond pattern for a user defined 'n' value
 
